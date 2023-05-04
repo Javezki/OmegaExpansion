@@ -1,26 +1,18 @@
-# Infinity Expansion
+# Omega Expansion
 
-InfinityExpansion is an addon to the plugin Slimefun which adds a bunch of new machines and resources. 
-It expands the endgame of Slimefun by a large margin.
-You can read about recent changes and additions at the bottom of the page.
-
-## Download
-
-(Click Below)
-
-[![Build Status](https://thebusybiscuit.github.io/builds/Mooy1/InfinityExpansion/master/badge.svg)](https://thebusybiscuit.github.io/builds/Mooy1/InfinityExpansion/master)
+OmegaExpansion is the successor to the infinity expansion addon to slimefun. Omega Expansion contains all the machines from infinity expansion as well as up-to-date updates on bug fixes and additional content (coming soon). 
 
 ## Requirements
 
-Minecraft Version: 1.16+ (Paper recommended)
+Minecraft Version: 1.19+ (Paper recommended)
 
-Slimefun Version: DEV 950+ (Click Below)
+Slimefun Version: DEV 1050+ (Click Below)
 
 [![Build Status](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/badge.svg)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)
 
 ## Bugs/Suggestions
 
-Make a new issue, pull request, or contact me on discord @Riley#5911
+Make a new issue, pull request, or contact me on discord @Javezki#0691
 
 <p>
   <a href="https://discord.gg/slimefun">
@@ -31,17 +23,6 @@ Make a new issue, pull request, or contact me on discord @Riley#5911
   </a>
 </p>
 
-## Texture Pack
-
-A Texture Pack that adds texture for some items in this addon (requires Optifine):
-
-https://github.com/Mooy1/InfinityExpansion/releases/tag/v1
-
-## Stats
-
-Some stats about the addon including current server count and player count are available here:
-
-https://bstats.org/plugin/bukkit/InfinityExpansion/8991
 
 ## Changelog
 ### Version 140
