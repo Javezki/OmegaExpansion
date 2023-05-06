@@ -6,9 +6,7 @@ OmegaExpansion is the successor to the infinity expansion addon to slimefun. Ome
 
 Minecraft Version: 1.19+ (Paper recommended)
 
-Slimefun Version: DEV 1050+ (Click Below)
-
-[![Build Status](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/badge.svg)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)
+Slimefun Version: DEV 1050+ 
 
 ## Bugs/Suggestions
 
